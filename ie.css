@@ -1,0 +1,4 @@
+#table{
+	height: 200px;
+	padding-top: expression(((document.body.offsetHeight-200)/2)-2);
+}
